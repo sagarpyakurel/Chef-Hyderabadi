@@ -199,7 +199,7 @@ body.dark-theme {
   visibility: visible;
   z-index: 100;
 }
-/*Estilização das linhas do menu hambúrguer:*/
+/*:*/
 .line {
   fill: none;
   stroke: var(--text-color);
